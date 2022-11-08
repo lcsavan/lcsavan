@@ -1,6 +1,6 @@
 ### Hi there 👋
   ##
-- 🔭 I’m currently working on  JavaScript, HTML, CSS.
+- 🔭 I’m currently working on  PHP, HTML e CSS.
 <!-- - 🌱 I’m currently learning VueJs. -->
 <!-- - ⚡ Fun fact: Music Eletronic 🎵 && Pedal 🚲 -->
   ##
